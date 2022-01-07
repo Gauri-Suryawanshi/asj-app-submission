@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragment_chats"
+        android:title="Chats"
+        android:contentDescription="Chats"
+        android:icon="@drawable/ic_chat"/>
+
+
+    <item
+        android:id="@+id/fragments_home"
+        android:title="Home"
+        android:contentDescription="Home"
+        android:icon="@drawable/ic_store_white_24dp"/>
+
+    <item
+        android:id="@+id/fragments_profile"
+        android:title="@string/menu_profile"
+        android:contentDescription="@string/menu_profile"
+        android:icon="@drawable/ic_person_outline_white_24dp"/>
+
+</menu>

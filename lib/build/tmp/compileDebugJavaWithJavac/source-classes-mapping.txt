@@ -1,0 +1,2 @@
+me/ibrahimsn/lib/BuildConfig.java
+ me.ibrahimsn.lib.BuildConfig
